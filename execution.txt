@@ -1,0 +1,16 @@
+Compile:
+javac Puzzle8.java
+
+Program execution:
+(1) java Puzzle8
+
+(2) Insert a string to represent the game board (no spaces between numbers).
+	Example:
+		342517608
+
+(3) Enter.
+
+(4) Insert type of search (1, 2, 3, 4, 5).
+	Example:
+		2
+(5) Enter.
